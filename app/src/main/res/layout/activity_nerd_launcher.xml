@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView
+    xmlns:andoird="http://schemas.android.com/apk/res/android"
+    andoird:id="@+id/app_recycler_view"
+    andoird:layout_width="match_parent"
+    andoird:layout_height="match_parent"/>
